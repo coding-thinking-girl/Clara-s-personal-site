@@ -1,0 +1,202 @@
+/************************TAG SELECTORS*********************/
+a {
+  color: #bb3b0e;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+  color: #3f3f44
+}
+
+hr {
+  border-color: #dddddd;
+  border-width: 7px;
+  border-style: dotted none none;
+  margin: 70px auto 70px auto;
+  width: 6%;
+}
+
+h1 {
+  margin-top: 0;
+  padding: 30px;
+  font-family: 'Ruge Boogie', cursive;
+  font-size: 6rem;
+  color: #fa744f;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 3rem;
+  font-family: 'Balsamiq Sans', cursive;
+  color: #fa744f;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 2rem;
+  font-family: 'Balsamiq Sans', cursive;
+  color: #fa744f;
+  font-weight: normal;
+}
+
+h4 {
+  font-size: 1.3rem;
+  font-family: 'Balsamiq Sans', cursive;
+  color: #fa744f;
+  font-weight: normal;
+}
+
+/************************CLASS SELECTORS*********************/
+.bottom-cloud {
+  position: absolute;
+  top: 310px;
+  left: 250px;
+}
+
+.bottom-section {
+  background-color: #f5a31a;
+  height: 130px;
+  margin: 0;
+}
+
+.button {
+  margin: 50px auto 50px auto;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 11px 33px;
+    border: 1px solid #f5bfa1;
+    border-radius: 8px;
+    background: #ff6f00;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ff6f00), to(#ffa200));
+    background: -moz-linear-gradient(top, #ff6f00, #ffa200);
+    background: linear-gradient(to bottom, #ff6f00, #ffa200);
+    -webkit-box-shadow: #ff6f00 0px 0px 0px 0px;
+    -moz-box-shadow: #ff6f00 0px 0px 0px 0px;
+    box-shadow: #ff6f00 0px 0px 0px 0px;
+    text-shadow: #591717 1px 1px 8px;
+    font: normal normal bold 20px trebuchet ms;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    background: #ff8500;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ff8500), to(#ffc200));
+    background: -moz-linear-gradient(top, #ff8500, #ffc200);
+    background: linear-gradient(to bottom, #ff8500, #ffc200);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #994300;
+    background: -webkit-gradient(linear, left top, left bottom, from(#994300), to(#ffa200));
+    background: -moz-linear-gradient(top, #994300, #ffa200);
+    background: linear-gradient(to bottom, #994300, #ffa200);
+}
+
+
+.chat {
+  color: blue;
+  font-family: 'PT Serif', serif;
+}
+
+.contact {
+  background-color: #f8f3eb;
+  height: 670px;
+  margin: 0;
+  padding-top: 30px;
+  position: relative;
+}
+
+.cm {
+  position: relative;
+  top: 100px;
+}
+
+.cm-forest {
+  height: 48%;
+  width: 70%;
+  position: relative;
+  top: 100px;
+}
+
+.img1{
+  height:28%;
+  margin: auto 30px auto 30px;
+  float: left;
+  width:28%;
+}
+
+.img2{
+ height:26%;
+ float: right;
+ width:22%;
+}
+
+.img3{
+ height:30%;
+ float:left;
+ width:25%;
+}
+
+.middle-section {}
+
+.profile{
+  width: 40%;
+  margin: 80px auto 80px auto;
+  line-height: 2;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+  width: 50%;
+}
+
+.skill-row-s{
+  display: center
+}
+
+.title {
+  position: relative;
+  top: 90px;
+  color: #fa744f
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.top-section {
+  background-color: #f8f3eb;
+  height: 830px;
+  margin: 0;
+  padding-top: 30px;
+  position: relative;
+}
+
+.forest {
+  height: 39.5%;
+  position: relative;
+  top: 160px;
+  width: 65%;
+}
+
+.footer-link{
+  position: relative;
+  top: 20px;
+  text-decoration: none;
+}
+
+.©{
+  color: white;
+  margin: 0;
+  position: relative;
+  top: 50px
+}
